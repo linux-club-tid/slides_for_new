@@ -348,13 +348,11 @@ GitHub org
 
 <!-- reset_layout -->
 
-<!-- new_lines: 0 -->
+<!-- new_lines: 3 -->
 
-<!-- font_size: 1 -->
+<!-- font_size: 7 -->
 
-```zsh +exec_replace +no_background
-cfonts "Welcome to |Linux" | tte wipe
-fig
-```
+Thanks!
+
 
 ---
