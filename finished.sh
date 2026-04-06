@@ -1,17 +1,16 @@
 #!/bin/bash
 
-export PS1=""
-export PROMPT=""
+PS1=""
+PROMPT=""
 
 clear
 
-kitten icat ./images/discord_qr.png
-printf "\e]66;s=4;Discord\a\n\n" | ./centering.sh
-printf "\e]66;s=4;\a\n\n"
+kitten icat --align left ./images/discord_qr.png
+printf "\e]66;s=4;Discord\a\n\n"
 printf "\e]66;s=4;\a\n\n"
 
-kitten icat ./images/repo_qr.png
-printf "\e]66;s=4;Source\a\n\n" | ./centering.sh
+kitten icat --align left ./images/repo_qr.png
+printf "\e]66;s=4;Source\a\n\n"
 printf "\e]66;s=4;\a\n\n"
 
 cfonts "Welcome to |Linux" | tte wipe \

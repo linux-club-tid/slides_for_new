@@ -12,6 +12,13 @@ theme:
 注意?
 ===
 
+<!--
+speaker_note: |
+  - スライド内部で様々なURLのQRなどがあります。
+  - 今入らなくてもスクショだけでも撮っていただけると便利です。
+  - Discordの招待QRは左下にずっとあります
+-->
+
 <!-- font_size: 2 -->
 - スライド内部で様々なURLのQRなどがあります。
 - 今入らなくてもスクショだけでも撮っていただけると便利です。
@@ -22,7 +29,16 @@ theme:
 活動内容について
 ===
 
-<!-- speaker_note: this is a speaker note -->
+<!--
+speaker_note: |
+我々の活動目的と内容は
+デスクトップOSとしてのLinuxの普及
+
+それを実現するための
+
+- 初学者向けドキュメントの開発
+- Linuxに関する知見の共有
+-->
 
 <!-- font_size: 2 -->
 我々の活動目的と内容は
@@ -35,17 +51,12 @@ theme:
 
 <!-- font_size: 2 -->
 <!-- alignment: left -->
-それを実現するための
+それを実現するために
 <!-- pause -->
 <!-- alignment: center -->
 <!-- font_size: 3 -->
 - 初学者向けドキュメントの開発
 - Linuxに関する知見の共有
-
-<!-- pause -->
-<!-- alignment: right -->
-<!-- font_size: 2 -->
-です
 
 ---
 
