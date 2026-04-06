@@ -193,3 +193,7 @@ palette:
     base: "eff1f5"
     mantle: "e6e9ef"
     crust: "dce0e8"
+  classes:
+    url_t:
+      foreground: "40a02b"
+      background: "eff1f5"
